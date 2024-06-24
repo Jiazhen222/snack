@@ -8,12 +8,16 @@ figma[https://www.figma.com/design/Bk41Ecx4PgdVQRE6RPHWKq/LDCW?node-id=63-263 ]
 user manual[https://www.canva.com/design/DAGI6ySYm28/yCm_vmIcbzzmpEcMf2Pl4w/edit?utm_content=DAGI6ySYm28&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton ]
  
  **content**
+
+ 1.0 Introduction
  
-1.0 Wix 
+2.0 Wix 
  
-2.0 Figma
+3.0 Figma
  
-3.0 User Manual
+4.0 User Manual
+
+Introduction
 
 URL link( Wix )[]
 
