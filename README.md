@@ -1,5 +1,5 @@
-# snack 
-<h1>**content**</h1> 
+# Healthy Snack 
+<h1>content</h1> 
  <ul>
   <li>Introduction</li>
   <li>Wix</li>
