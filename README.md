@@ -10,5 +10,7 @@ user manual[https://www.canva.com/design/DAGI6ySYm28/yCm_vmIcbzzmpEcMf2Pl4w/edit
  **content**
  
  Wix 
+ 
  Figma
+ 
  User Manual
