@@ -17,10 +17,8 @@ user manual[https://www.canva.com/design/DAGI6ySYm28/yCm_vmIcbzzmpEcMf2Pl4w/edit
  
 4.0 User Manual
 
-Introduction
+<h1>1.0 Introduction</h1> 
+<h1>2.0 Wix</h1> 
+<h1>3.0 Figma</h1> 
+<h1>4.0 User Manual</h1> 
 
-URL link( Wix )[]
-
-Heading 1: ' Heading 1'
-
-<h1>Heading level 1</h1> ssss
