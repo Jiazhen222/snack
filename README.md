@@ -1,4 +1,4 @@
-<h1>4.0 User Manual</h1> 
+# User Manual
 
 ![image](https://github.com/Jiazhen222/snack/assets/173336505/6433375c-8368-4903-8dd5-3320e3b1d4d4)
 
