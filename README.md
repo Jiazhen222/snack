@@ -1,5 +1,8 @@
 <h1>4.0 User Manual</h1> 
-![image](https://github.com/Jiazhen222/snack/assets/173336505/e35abd8f-46ba-4737-9d54-8902ff9c343b)
+
+![image](https://github.com/Jiazhen222/snack/assets/173336505/6433375c-8368-4903-8dd5-3320e3b1d4d4)
+
+
 
 Example page of user manual
 
